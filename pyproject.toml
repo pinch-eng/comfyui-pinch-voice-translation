@@ -12,3 +12,4 @@ Repository = "https://github.com/pinch-eng/comfyui-pinch-voice-translation"
 [tool.comfy]
 PublisherId = "mythri"
 DisplayName = "Pinch Voice Translation"
+Icon = "icon.png"

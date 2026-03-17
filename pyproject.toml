@@ -10,6 +10,6 @@ dependencies = ["requests>=2.28"]
 Repository = "https://github.com/pinch-eng/comfyui-pinch-voice-translation"
 
 [tool.comfy]
-PublisherId = "mythri"
+PublisherId = "pinch"
 DisplayName = "Pinch Voice Translation"
 Icon = "icon.png"

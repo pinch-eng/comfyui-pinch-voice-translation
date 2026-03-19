@@ -2,6 +2,8 @@
 
 Dub and translate audio/video files using the [Pinch](https://startpinch.com/docs) Dubbing API, directly from ComfyUI.
 
+https://registry.comfy.org/publishers/pinch/nodes/pinch-dubbing
+
 ## Installation
 
 ### ComfyUI Manager
